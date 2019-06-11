@@ -5,7 +5,7 @@
 A generated **flow**ground connector for the Common types API (version 1.0).
 
 Generated from: https://api.apis.guru/v2/specs/azure.com/sql-types/1.0/swagger.json<br/>
-Generated at: 2019-05-07T17:39:13+03:00
+Generated at: 2019-06-11T18:14:30+03:00
 
 ## API Description
 
